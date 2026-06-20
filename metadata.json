@@ -1,0 +1,6 @@
+{
+  "name": "SportSlot",
+  "description": "Game on. Booked in seconds. The premiere booking engine for every court, pitch, and pool near you.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
